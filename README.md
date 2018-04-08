@@ -1,0 +1,2 @@
+# my-new-feature
+Snippets
